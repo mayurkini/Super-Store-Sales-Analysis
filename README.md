@@ -8,6 +8,10 @@ The objective of this report is to analyse sales patterns in a superstore and de
 
 This Power BI report provides a comprehensive dashboard for analysing superstore sales data across various dimensions such as category, region, and time. It leverages interactive visuals and filters to help stakeholders gain insights into sales trends, customer behaviour, and profit distribution.
 
+
+
+![](https://github.com/mayurkini/Super-Store-Sales-Analysis/blob/main/Dashboard.png)
+
 **Data Source**
 
 - **Superstore Sales Data (provided dataset)**
